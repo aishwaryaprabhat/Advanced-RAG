@@ -1,4 +1,4 @@
-llama-index
+llama-index==0.9.27
 pypdf
 sentence_transformers
 typing_extensions==4.7.1
