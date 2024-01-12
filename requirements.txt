@@ -3,3 +3,4 @@ pypdf
 sentence_transformers
 typing_extensions==4.7.1
 nest_asyncio
+ragas
