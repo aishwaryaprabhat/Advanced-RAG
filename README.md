@@ -1,5 +1,6 @@
-# Advanced RAG: Performing, evaluating and tracking advanced Retrieval Augmented Generation methods ft. AzureML, LlamaIndex & Ragas 🚀 
+# Performing, Evaluating & Tracking Advanced RAG (ft. AzureML, LlamaIndex & Ragas) 🚀
 <a href="https://colab.research.google.com/github/aishwaryaprabhat/Advanced-RAG/blob/main/Advanced_RAG.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 ![](assets/rag.png)
 
 ## Table of Contents 📋
