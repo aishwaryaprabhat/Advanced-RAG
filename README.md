@@ -11,12 +11,7 @@
 8. [References & Further Reading 📚](#references--further-reading-)
 
 ## Introduction 🌟
-The `Advanced-RAG.ipynb` notebook in this repository provides an in-depth analysis and implementation of three RAG techniques:
-- Chunks with Overlap (Baseline) 🧩
-- Sentence Window Retrieval 🪟
-- Hierarchical Automerge Retrieval 🔼
-
-Additionally, it covers the evaluation of these techniques using six metrics and demonstrates how to track experiments effectively.
+The `Advanced-RAG.ipynb` notebook in this repository provides an in-depth analysis and implementation of three RAG techniques and six RAG evaluation techniques. Additionally, it demonstrates how to track evaluation experiments using MLflow.
 
 ## RAG Techniques 🛠️
 The notebook details the following RAG techniques:
@@ -65,11 +60,6 @@ While the steps detailed below are also in the `Advanced-RAG.ipynb` notebook for
 
 ## License 📄
 This project is licensed under the terms of the [LICENSE](LICENSE) file in this repository.
-
-## References & Further Reading 📚
-For more detailed information and further learning, check out the references and resources listed at the end of the `Advanced
-
--RAG.ipynb` notebook.
 
 ---
 
