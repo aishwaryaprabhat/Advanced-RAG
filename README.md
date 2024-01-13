@@ -1,4 +1,5 @@
-# Advanced-RAG: Performing, evaluating and tracking advanced Retrieval Augmented Generation methods ft. AzureML & LlamaIndex 🚀
+# Advanced-RAG: Performing, evaluating and tracking advanced Retrieval Augmented Generation methods ft. AzureML, LlamaIndex & Ragas 🚀
+![](assets/rag.png)
 
 ## Table of Contents 📋
 1. [Introduction 🌟](#introduction-)
