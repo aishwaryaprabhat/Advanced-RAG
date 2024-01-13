@@ -1,4 +1,4 @@
-# Advanced-RAG: Performing, evaluating and tracking advanced Retrieval Augmented Generation methods ft. AzureML, LlamaIndex & Ragas 🚀
+# Advanced RAG: Performing, evaluating and tracking advanced Retrieval Augmented Generation methods ft. AzureML, LlamaIndex & Ragas 🚀
 ![](assets/rag.png)
 
 ## Table of Contents 📋
@@ -12,7 +12,7 @@
 8. [References & Further Reading 📚](#references--further-reading-)
 
 ## Introduction 🌟
-The `Advanced-RAG.ipynb` notebook in this repository provides an in-depth analysis and implementation of three RAG techniques and six RAG evaluation techniques. Additionally, it demonstrates how to track evaluation experiments using MLflow.
+The `Advanced_RAG.ipynb` notebook in this repository provides an in-depth analysis and implementation of three RAG techniques and six RAG evaluation techniques. Additionally, it demonstrates how to track evaluation experiments using MLflow.
 
 ## RAG Techniques 🛠️
 The notebook details the following RAG techniques:
@@ -33,7 +33,7 @@ The notebook demonstrates the evaluation of RAG techniques using the following m
 The experiment tracking section showcases how to use Microsoft Azure ML Studio and MLflow for tracking and analyzing the results of your RAG evaluations. 
 
 ## Installation 📥
-While the steps detailed below are also in the `Advanced-RAG.ipynb` notebook for running in a hosted environment like Google Colab or AzureML Studio, you may choose to set up your environment locally.
+While the steps detailed below are also in the `Advanced_RAG.ipynb` notebook for running in a hosted environment like Google Colab or AzureML Studio, you may choose to set up your environment locally.
 
 1. **Clone the Repository** 📂: 
    ```bash
@@ -55,7 +55,7 @@ While the steps detailed below are also in the `Advanced-RAG.ipynb` notebook for
    ```
 
 ## Usage 💻
-- Open the `Advanced-RAG.ipynb` notebook in a Jupyter environment.
+- Open the `Advanced_RAG.ipynb` notebook in a Jupyter environment.
 - Follow the instructions and code cells in the notebook to explore the various RAG techniques and evaluations.
 
 
