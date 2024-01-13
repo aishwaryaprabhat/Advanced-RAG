@@ -1,6 +1,6 @@
 llama-index==0.9.27
-pypdf
-sentence_transformers
+pypdf==3.17.4
+sentence-transformers==2.2.2
 typing_extensions==4.7.1
-nest_asyncio
-ragas
+nest_asyncio==1.5.8
+ragas==0.0.22
