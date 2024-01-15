@@ -1,6 +1,5 @@
 # Performing, Evaluating & Tracking Advanced RAG (ft. AzureML, LlamaIndex & Ragas) 🚀
 <a href="https://colab.research.google.com/github/aishwaryaprabhat/Advanced-RAG/blob/main/Advanced_RAG.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-
 <a href="https://www.linkedin.com/pulse/performing-evaluating-tracking-advanced-rag-ft-azureml-prabhat-i1rkc/" target="_parent"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Article"/></a>
 
 ![](assets/rag.png)
